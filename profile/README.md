@@ -16,6 +16,11 @@
 | [astro-starter](https://github.com/formgong/astro-starter) | Static Astro site with progressive enhancement |
 | [react-contact-form](https://github.com/formgong/react-contact-form) | One React + Tailwind file for Lovable, Bolt and v0 |
 
+## npm
+
+- [`create-formgong`](https://www.npmjs.com/package/create-formgong): `npm create formgong@latest` scaffolds any starter above ([source](https://github.com/formgong/create-formgong))
+- [`@formgong/react`](https://www.npmjs.com/package/@formgong/react): `<ContactForm accessKey="fk_…" />` plus a hook and a custom-fields wrapper ([source](https://github.com/formgong/react))
+
 ## Prompts for AI builders
 
 Copy-paste prompts that make the builder add a working form, with no Supabase, Edge Function or email service: [Lovable](https://formgong.com/en/docs/lovable/) · [Bolt](https://formgong.com/en/docs/bolt/) · [v0](https://formgong.com/en/docs/v0/) · [Cursor](https://formgong.com/en/docs/cursor/) · [Replit](https://formgong.com/en/docs/replit/) · [Base44](https://formgong.com/en/docs/base44/) · [ChatGPT / Claude](https://formgong.com/en/docs/chatgpt-claude/)
