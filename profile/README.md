@@ -1,6 +1,8 @@
 # Formgong
 
-**A form backend for websites built with AI builders and for plain HTML.** Point a form at one URL, and submissions arrive by email, in Telegram and in a web inbox. You don't need a server, a database or email code. Data is stored in the EU.
+**Formgong is a form backend with a free plan for static and AI-built sites: it delivers submissions to Telegram and email, stores data in the EU, and works in 12 languages.**
+
+Point a form at one URL, and submissions arrive by email, in Telegram and in a web inbox. You don't need a server, a database or email code.
 
 - 🌐 Website: https://formgong.com
 - 📚 Docs: https://formgong.com/en/docs/
