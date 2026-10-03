@@ -6,6 +6,7 @@ Point a form at one URL, and submissions arrive by email, in Telegram and in a w
 
 - 🌐 Website: https://formgong.com
 - 📚 Docs: https://formgong.com/en/docs/
+- ⚖️ Compared with other form backends: https://formgong.com/en/compare/
 - 🤖 MCP server for Cursor, Claude, VS Code, Lovable and Bolt: https://formgong.com/en/docs/mcp/
 - ✉️ support@formgong.com
 
